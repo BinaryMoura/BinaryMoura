@@ -44,7 +44,7 @@ I combine **aesthetic sensibility** with **technical depth** — from pixel-perf
 ---
 
 ```javascript
-const binaryleo = {
+const binaryMoura = {
   title: "Senior Full-Stack Engineer",
 
   expertise: {
