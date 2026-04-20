@@ -9,8 +9,8 @@ Building high-performance applications across web, mobile, and desktop — bridg
 
 **Frontend & Mobile Development**
 * ✔️ **Web:** Next.js | Astro | React | TypeScript | TailwindCSS | Performance Optimization
-* ✔️ **Mobile:** React Native | Expo | SwiftUI
-* ✔️ **Desktop:** C# | VB.Net | Windows Forms
+* ✔️ **Mobile:** React Native | Lynx | Expo | Ionic React | SwiftUI | Sailfish OS Development
+* ✔️ **Desktop:** C# | VB.Net | Windows Forms | MacOS Development | HarmonyOS Development | 
 
 **Backend & Infrastructure**
 * ✔️ **Runtime:** Go | Node.js | Python | REST APIs | WebSocket
