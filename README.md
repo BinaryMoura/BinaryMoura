@@ -1,6 +1,6 @@
 <img align="right" src="https://github.com/user-attachments/assets/72465888-e4a7-438d-85c7-580742fef9f7" width="38%" />
 
-### Senior Full-Stack Engineer | Systems Programming | HMI Development
+### Senior Mobile Engineer | Systems Programming | HMI Development
 Building high-performance applications across web, mobile, and desktop — bridging software engineering with embedded systems and industrial interfaces.
 
 &nbsp;
